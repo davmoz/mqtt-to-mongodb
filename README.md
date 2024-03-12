@@ -1,4 +1,4 @@
-# IoT Data Collector
+# MQTT to MongoDB IoT Data Collector
 
 This repository contains the Docker setup for an IoT Data Collector service. It includes a Python-based agent for collecting data from various sources via MQTT and storing this data in MongoDB for further analysis.
 
