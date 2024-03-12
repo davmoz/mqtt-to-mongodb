@@ -35,7 +35,7 @@ To deploy the IoT Data Collector, follow these steps:
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://yourrepositoryurl.com/mqtt-to-mongodb.git
+   git clone https://github.com/davmoz/mqtt-to-mongodb.git
    ```
 2. Navigate to the cloned repository directory:
    ```
