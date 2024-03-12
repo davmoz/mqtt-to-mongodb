@@ -42,13 +42,18 @@ To deploy the IoT Data Collector, follow these steps:
    cd mqtt-to-mongodb
    ```
 3. Run the Docker Compose up command to build and start the services:
+
    ```
    docker compose up --build
    ```
+
    or run the services in the background:
+
    ```
     docker compose up -d --build
    ```
+
+   You might have to run the command with `sudo` if you are not in the `docker` group.
 
 ## Usage
 
