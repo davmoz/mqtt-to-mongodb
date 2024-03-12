@@ -43,11 +43,11 @@ To deploy the IoT Data Collector, follow these steps:
    ```
 3. Run the Docker Compose up command to build and start the services:
    ```
-   docker-compose up --build
+   docker compose up --build
    ```
    or run the services in the background:
    ```
-    docker-compose up -d --build
+    docker compose up -d --build
    ```
 
 ## Usage
